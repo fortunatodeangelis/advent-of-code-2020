@@ -38,7 +38,4 @@ foreach ($orderedRows as $fields) {
     }
 }
 
-echo "<pre>";
-print_r($orderedRows);
-
 echo $validPassport;
