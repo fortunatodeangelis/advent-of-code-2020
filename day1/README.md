@@ -1,4 +1,4 @@
-## Day One
+<h2 id="part2">--- Day 1: Report Repair ---</h2>
 
 <article class="day-desc"><h2 id="part2">--- Part One ---</h2>
 <p>Before you leave, the Elves in accounting just need you to fix your <em>expense report</em> (your puzzle input); apparently, something isn't quite adding up.</p>
